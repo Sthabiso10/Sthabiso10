@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sthabiso Dlamini</h1>
 <h3 align="center">A passionate frontend developer from South Africa</h3>
 
-- 🔭 I’m currently working on **Prompt Pulse**
+- 🔭 I’m currently working on **Split Pay, FeedCo and PDF Masters**
 
-- 🌱 I’m currently learning **Javascript, React, React Native**
+- 🌱 I’m currently building new personal projects
 
 - 👯 I’m looking to collaborate on **any project that wants to make great strides in making our world a better place.**
 
