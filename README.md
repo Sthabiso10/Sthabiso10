@@ -19,10 +19,6 @@
   <a href="https://www.linkedin.com/in/sthabiso-dlamini/">
     <img src="https://img.shields.io/badge/LinkedIn-Sthabiso%20Dlamini-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;
-  <a href="https://github.com/Sthabiso10">
-    <img src="https://img.shields.io/badge/GitHub-Sthabiso10-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
 </p>
 
 <br/>
